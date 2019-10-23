@@ -1,5 +1,5 @@
 # MINI PROYEK PROGLAN
-## INFO
+## INFORMASI
 No. Kelompok : 8
 
 Judul Proyek : MyCon Phonebook
