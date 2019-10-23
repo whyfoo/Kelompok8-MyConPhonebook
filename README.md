@@ -1,4 +1,12 @@
 # MyCon-Phonebook
-Mini Proyek untuk mata kuliah Pemrograman Lanjut.
+Mini Proyek untuk mata kuliah Pemrogaman Lanjut
 
-MyCon Phonebook adalah program C yang bertujuan untuk Phonebook dengan fitur grouping.
+No Kelompok : 8
+
+Judul Proyek : MyCon Phonebook
+
+Dibuat oleh Haidar Hanif (1806148694) dan Dimas Wira Nugraha (1806200021)
+
+
+MYCon phonebook merupakan salah satu program yang memudahkan anda dalam mengatur dan melakukan manajemen terhadap kontak anda. Program ini memungkinkan anda untuk mengelola kontak anda secara efektif sehingga anda dengan mudah menemukan kontak mana yang ingin anda gunakan. Anda dapat menambahkan kontak dan mengasosiasikan kontak tersebut dengan grup.
+
